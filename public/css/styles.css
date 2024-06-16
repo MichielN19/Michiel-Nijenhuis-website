@@ -120,6 +120,7 @@ body {
     max-width: 1000px;
     min-width: 100px;
     margin: 0 auto;
+    margin-bottom: 200px;
     padding: 0 50px;
 }
 
@@ -170,5 +171,12 @@ body {
     height: 100%;
     object-fit: cover;
     flex-shrink: 0;
+}
+
+.footer {
+    background-image: linear-gradient(#1A1A1A, #6B6B6B);
+    width: 100%;
+    height: 300px;
+    margin-top: 200px;
 }
 
